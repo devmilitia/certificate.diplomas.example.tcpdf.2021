@@ -2,7 +2,7 @@
 Example of certificate in PHP with TCPDF SEP 2021 and 11 PSD cerficates templates
 | Ejemplo de certificado en PHP con TCPDF SEP 2021 y 11 plantillas PSD
 
-![alt text](https://i.postimg.cc/YSzYbPFN/diplomas-screenshot-2021-09-18-at-20-10-51.png)
+![alt text](https://i.postimg.cc/pXQfV6NN/001-diploma.png)
 
 ![alt text](https://i.postimg.cc/Kz9LygJR/diplomas-screenshot-2021-09-18-at-20-11-30.png)
 
