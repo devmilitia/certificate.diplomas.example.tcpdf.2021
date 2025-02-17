@@ -10,4 +10,4 @@ The 11 PSD Certificate Templates | Las 11 Plantillas PSD de Diplomas
 
 https://www.mediafire.com/file/ssqun4sswuiyuhp/diplomas_profesionales_psd.rar/file
 
-Developed By | Programado por: Carlos Mario Ospina | www.ventasON.com
+Developed By | Programado por: Carlos Mario Ospina
